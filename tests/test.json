@@ -1,0 +1,60 @@
+{
+  "name": "lint-json",
+  "array": [
+    "lint",
+    "json"
+  ],
+  "description": "description with email@mail.com, https://example.com and kebab-case. the last thing is some sentence. i forgot! something. that's it.",
+  "allDescription": {
+    "sentence": "description with email@mail.com, https://example.com and kebab-case. the last thing is some sentence. i forgot! something. that's it.",
+    "email": "email@mail.com",
+    "link": "https://example.com",
+    "tag": "<a href='https://example.com'>teste</a>"
+  },
+  "object": {
+    "name": "lint-json",
+    "array": [
+      "lint",
+      "json"
+    ],
+    "description": "description with email@mail.com, https://example.com and kebab-case. the last thing is some sentence. i forgot! something. that's it.",
+    "allDescription": {
+      "sentence": "description with email@mail.com, https://example.com and kebab-case. the last thing is some sentence. i forgot! something. that's it.",
+      "email": "email@mail.com",
+      "link": "https://example.com",
+      "tag": "<a href='https://example.com'>teste</a>"
+    }
+  },
+  "arrayObject": [
+    {
+      "index": 0,
+      "name": "lint-json",
+      "array": [
+        "lint",
+        "json"
+      ],
+      "description": "description with email@mail.com, https://example.com and kebab-case. the last thing is some sentence. i forgot! something. that's it.",
+      "allDescription": {
+        "sentence": "description with email@mail.com, https://example.com and kebab-case. the last thing is some sentence. i forgot! something. that's it.",
+        "email": "email@mail.com",
+        "link": "https://example.com",
+        "tag": "<a href='https://example.com'>teste</a>"
+      }
+    },
+    {
+      "index": 1,
+      "name": "lint-json",
+      "array": [
+        "lint",
+        "json"
+      ],
+      "description": "description with email@mail.com, https://example.com and kebab-case. the last thing is some sentence. i forgot! something. that's it.",
+      "allDescription": {
+        "sentence": "description with email@mail.com, https://example.com and kebab-case. the last thing is some sentence. i forgot! something. that's it.",
+        "email": "email@mail.com",
+        "link": "https://example.com",
+        "tag": "<a href='https://example.com'>teste</a>"
+      }
+    }
+  ]
+}
