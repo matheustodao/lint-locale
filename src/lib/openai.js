@@ -8,6 +8,6 @@ const openaiConfigs = {
 
 const configuration = new Configuration(openaiConfigs);
 
+
 /** @type {OpenAI} */
 export const openai = new OpenAIApi(configuration);
-
